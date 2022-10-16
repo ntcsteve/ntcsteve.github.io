@@ -1,1 +1,1 @@
-100DaysOfCode - my sample page on GitHub Pages
+100DaysOfCode - my sample "ugly" page.
